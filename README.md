@@ -1,2 +1,3 @@
 # Machine-learning
-Assignments related to machine learning course
+Implementation of various machine learning algorithms for different purposes
+
